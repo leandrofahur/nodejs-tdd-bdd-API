@@ -10,5 +10,5 @@
 
 # REFERENCES
 
-1. Jest [here](https://cucumber.io/)
-2. Cucumber [here](https://jestjs.io/)
+1. Cucumber [here](https://cucumber.io/)
+2. Jest [here](https://jestjs.io/)
