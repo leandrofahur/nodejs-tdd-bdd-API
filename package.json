@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-tdd-bdd-API",
+  "version": "1.0.0",
+  "description": "## Test Driven Development",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "cucumber-js test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrofahur/nodejs-tdd-bdd-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandrofahur/nodejs-tdd-bdd-API/issues"
+  },
+  "homepage": "https://github.com/leandrofahur/nodejs-tdd-bdd-API#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.1.0",
+    "nodemon": "^2.0.7"
+  }
+}
